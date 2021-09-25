@@ -36,7 +36,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+learning data structures and algorithms recently
 
 
 ### ☕ Get In Touch
