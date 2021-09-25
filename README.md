@@ -28,11 +28,11 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 
 ### 👀 Active Repo
-(https://github.com/NiceColors/seminariosLapsi)
+https://github.com/NiceColors/seminariosLapsi
 
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecollors&show_icons=true&theme=radical)
 
 
 ### 🔭 2020 Goal
