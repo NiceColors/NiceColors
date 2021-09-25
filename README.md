@@ -34,6 +34,7 @@ I’m currently learning about data structures and algorithms
 
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicecolors&layout=compact)](https://github.com/nicecolors/github-readme-stats)
 
 
