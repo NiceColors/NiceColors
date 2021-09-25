@@ -28,7 +28,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github.com/NiceColors/seminariosLapsi)]
+(https://github.com/NiceColors/seminariosLapsi)
 
 
 ### 🏆 Github Status
