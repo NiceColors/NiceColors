@@ -32,7 +32,7 @@ https://github.com/NiceColors/seminariosLapsi
 
 
 ### 🏆 Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecollors&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
 
 
 ### 🔭 2020 Goal
