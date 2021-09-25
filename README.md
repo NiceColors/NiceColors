@@ -41,7 +41,6 @@ I’m currently learning about data structures and algorithms
 
 ### 🔭 2020 Goal
 learning data structures and algorithms, UX/UI, Design Patterns and Advanced [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
- React
 
 
 ### ☕ Get In Touch
