@@ -5,7 +5,7 @@
 ### 👋 Hey Guys
 I’m currently learning about data structures and algorithms 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://i.pinimg.com/originals/d7/c2/50/d7c250296c3c3b44c9aeb01623dd1023.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
