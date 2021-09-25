@@ -28,7 +28,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
+[![ReadMe Card](https://github.com/NiceColors/seminariosLapsi)]
 
 
 ### 🏆 Github Status
