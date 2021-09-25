@@ -5,7 +5,7 @@
 ### 👋 Hey Guys
 I’m currently learning about data structures and algorithms 
 
-<img align='right' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='200"'>
+<img align='right' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='400"'>
 
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -34,6 +34,8 @@ I’m currently learning about data structures and algorithms
 
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicecolors&layout=compact)](https://github.com/nicecolors/github-readme-stats)
+
 
 
 ### 🔭 2020 Goal
