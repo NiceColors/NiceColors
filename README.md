@@ -3,7 +3,7 @@
 </p>
 
 ### 👋 Hey, I'm Victor Batista
-I’m currently learning about data structures and algorithms 
+I’m a student information systems in UFRRJ. Currently learning about data structures and algorithms, UI/UX and React 
 
 <img align='center' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='100%"'>
 
