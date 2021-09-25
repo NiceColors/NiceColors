@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.pinimg.com/originals/d7/c2/50/d7c250296c3c3b44c9aeb01623dd1023.gif" width="27px">
+  <img src="https://pa1.narvii.com/6749/1e7cdf20835192c05e6d6a4c20b3ff17f5d57d20_hq.gif" width="27px">
 </p>
 
 ### 👋 Hey Guys
