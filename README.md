@@ -2,10 +2,11 @@
   <img src="https://pa1.narvii.com/6749/1e7cdf20835192c05e6d6a4c20b3ff17f5d57d20_hq.gif" width="27px">
 </p>
 
-### 👋 Hey, I'm Victor Batista <p align="left">
+
+<p>
+  ### 👋 Hey, I'm Victor Batista. I’m a student information systems in UFRRJ. Currently learning about data structures and algorithms, UI/UX and React 
   <img src="https://c.tenor.com/PcdTUvBGrAUAAAAC/umaru-umaruchan.gif" width="27px">
 </p>
-I’m a student information systems in UFRRJ. Currently learning about data structures and algorithms, UI/UX and React 
 
 <img align='center' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='100%"'>
 
