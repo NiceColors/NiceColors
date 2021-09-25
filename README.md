@@ -32,11 +32,6 @@ I’m a student information systems in UFRRJ. Currently learning about data stru
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicecolors&layout=compact)](https://github.com/nicecolors/github-readme-stats)
 
 
-
-### 🔭 2020 Goal
-learning data structures and algorithms, UX/UI, Design Patterns and React 
-
-
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/nicecollors)
 - [Youtube](https://www.youtube.com/)
