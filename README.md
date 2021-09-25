@@ -5,7 +5,8 @@
 
   ### 👋 Hey, I'm Victor Batista.
   <p>
-    I’m a student information systems in UFRRJ. Currently learning about data structures and algorithms, UI/UX and React   <img src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144" width="27px">
+    I am a student of information systems at UFRRJ. Currently learning about data structures and algorithms, UI/UX and React   
+    <img src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144" width="27px">
 
   </p>
 
