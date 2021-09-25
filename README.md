@@ -2,10 +2,10 @@
   <img src="https://pa1.narvii.com/6749/1e7cdf20835192c05e6d6a4c20b3ff17f5d57d20_hq.gif" width="27px">
 </p>
 
-### 👋 Hey Guys
+### 👋 Hey, I'm Victor Batista
 I’m currently learning about data structures and algorithms 
 
-<img align='right' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='400"'>
+<img align='center' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='100%"'>
 
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
