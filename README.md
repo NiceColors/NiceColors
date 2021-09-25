@@ -44,4 +44,4 @@ learning data structures and algorithms recently
 - [Youtube](https://www.youtube.com/)
 - [Personal Site](https://google.com)
 
-⭐️ From 
+⭐️ I love JavaScript
