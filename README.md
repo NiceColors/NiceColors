@@ -28,7 +28,7 @@ I’m currently learning about data structures and algorithms
 
 
 ### 👀 Active Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=github-readme-stats)](https://github.com/nicecolors/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=seminariosLapsi)](https://github.com/nicecolors/seminariosLapsi)
 
 
 
