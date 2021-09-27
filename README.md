@@ -10,7 +10,7 @@
 
   </p>
 
-<img align='center' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif&ct=g' width='100%"'>
+<img align='center' src='https://media2.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47kdpdsk6c5fqomh0s3z1zxuoc655p1i2qpgpn4a9x&rid=giphy.gif' width='100%"'>
 
 ### 👨‍💻 Languages and Tools
 
