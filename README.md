@@ -27,7 +27,7 @@
 
 
 ### 👀 Active Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=seminariosLapsi)](https://github.com/nicecolors/seminariosLapsi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=relatorioAion)](https://github.com/NiceColors/relatorioAion)
 
 
 
