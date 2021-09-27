@@ -6,7 +6,7 @@
   ### 👋 Hey, I'm Victor Batista.
   <p>
     I am a student of information systems at UFRRJ. Currently learning about AWS Cloud Practitioner Essentials, UI/UX and React   
-    <img src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144" width="27px">
+    <img src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif" width="27px">
 
   </p>
 
