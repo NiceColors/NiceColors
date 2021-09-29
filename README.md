@@ -27,7 +27,7 @@
 
 
 ### 👀 Active Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=relatorioAion)](https://github.com/NiceColors/relatorioAion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=EncontroAion)](https://github.com/NiceColors/EncontroAion)
 
 
 
