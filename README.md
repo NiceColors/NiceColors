@@ -27,9 +27,6 @@
 
 ### 👀 Active Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicecolors&repo=EncontroAion)](https://github.com/NiceColors/EncontroAion)
-
-
 
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
