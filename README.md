@@ -42,7 +42,6 @@
 
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/nicecollors)
-- [Personal Site](https://google.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/nicecollors)
 
 ❤️ I love JavaScript
