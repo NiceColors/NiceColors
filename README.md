@@ -39,7 +39,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicecolors&layout=compact)](https://github.com/nicecolors/github-readme-stats)
 
 
-### ☕ Get In Touch
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/nicecollors)
+## ☕ Connect with me:
+<a href = "https://twitter.com/NiceCollors"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href = "mailto:victorbtst77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
 
