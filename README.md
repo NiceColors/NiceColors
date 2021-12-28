@@ -36,11 +36,12 @@
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
 
+[![NiceColors's github activity graph](https://activity-graph.herokuapp.com/graph?username=nicecolors&theme=react-dark)](https://github.com/NiceColors)
 
 ## ☕ Social:
 <a href = "https://twitter.com/NiceCollors"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:victorbtst77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://open.spotify.com/user/sv12pbtbvg82xjym1u1oxyblv?si=b114e5b082e947a9"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-  
+ 
 
