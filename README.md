@@ -30,10 +30,10 @@
 
 <a href="https://github.com/nicecolors/portfolio">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=portfolio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=desenhos-fodas&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  
 </a>
-
+<a href="https://github.com/nicecolors/desenhos-fodas">
+   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=desenhos-fodas&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
