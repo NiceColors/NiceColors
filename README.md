@@ -1,6 +1,7 @@
 <h1>
   <p align="left">
-    <img src="https://img.icons8.com/doodle/48/000000/tulip.png"/> Hi, I’m <i>V!ctor Batista</i> <img src="https://img.icons8.com/doodle/48/000000/tea--v1.png"/>
+<!--     <img src="https://img.icons8.com/doodle/48/000000/tulip.png"/>  -->
+    Hi, I’m Victor Batista <img src="https://img.icons8.com/doodle/48/000000/tea--v1.png"/>
     <h3>I am a student of information systems at UFRRJ. Currently learning about React Query, Cache, UI/UX and SSR/SSG with Next.js <h3>   
   </p>
 </h1>
