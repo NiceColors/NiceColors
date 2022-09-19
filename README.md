@@ -27,8 +27,8 @@
 
 ### 👀 Active Repo's
 
-<a href="https://github.com/nicecolors/portfolio">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=portfolio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/NiceColors/Projeto-de-Software-front">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=Projeto-de-Software&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
