@@ -35,7 +35,6 @@
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
 
-[![NiceColors's github activity graph](https://activity-graph.herokuapp.com/graph?username=nicecolors&theme=react-dark)](https://github.com/NiceColors)
 
 ## ☕ Social:
 <a href = "https://twitter.com/NiceCollors"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
