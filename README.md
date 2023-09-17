@@ -25,13 +25,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-### 👀 Active Repo's
-
-<a href="https://github.com/NiceColors/Projeto-de-Software-front">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nicecolors&repo=Projeto-de-Software&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-
 ### 🏆 Github Status
 ![Victor Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=nicecolors&show_icons=true&theme=radical)
 
