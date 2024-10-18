@@ -2,7 +2,7 @@
   <p align="left">
 <!--     <img src="https://img.icons8.com/doodle/48/000000/tulip.png"/>  -->
     Hi, I’m Victor Batista <img src="https://img.icons8.com/doodle/48/000000/tea--v1.png"/>
-    <h3>I am a student of information systems at UFRRJ. Currently learning about UI/UX  <h3>   
+    <h3> <h3>   
   </p>
 </h1>
 
