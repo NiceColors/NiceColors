@@ -2,7 +2,9 @@
   <p align="left">
 <!--     <img src="https://img.icons8.com/doodle/48/000000/tulip.png"/>  -->
     Hi, I’m Victor Batista <img src="https://img.icons8.com/doodle/48/000000/tea--v1.png"/>
-    <h3> <h3>   
+    <h3>
+      I am a software developer with 3 years of experience in building web applications. Currently, I work on developing interfaces for educational management systems, focusing on usability and performance. I enjoy exploring new tools, tackling challenges through projects, and contributing to the creation of solutions.
+      <h3>   
   </p>
 </h1>
 
